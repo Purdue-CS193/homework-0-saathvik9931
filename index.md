@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Saathvik's First CS193 Homework
 
 - I love how CS 193 is taught by students who have taken the class before so they can understand the challenges we might face
